@@ -37,9 +37,9 @@ Acredito que a combinação de dados bem estruturados e modelos inteligentes pod
 
 ## 🚀 Projects Highlights
 
-**[Project 1 Name]**   
-▶️ Brief description  
-🔧 Tech used:  
+**Projeto 1 : Gerenciador de Tarefas**   
+▶️ Um sistema de gerenciamento de tarefas no terminal, com as opções: adicionar, listar, editar e excluir tarefas.  
+🔧 Tech used: `Python 3` | Módulos: `csv`, `os`, `datatime`  
 📌 [GitHub Link](https://github.com/Joao-Pedro-Lobo/gerenciador_tarefas)
 
 **[Project 2 Name]**  
@@ -48,11 +48,6 @@ Acredito que a combinação de dados bem estruturados e modelos inteligentes pod
 📌 [GitHub Link](#)  
 
 **[Project 3 Name]**  
-▶️ Brief description  
-🔧 Tech used:  
-📌 [GitHub Link](#)  
-
-**[Project 4 Name]**  
 ▶️ Brief description  
 🔧 Tech used:  
 📌 [GitHub Link](#)  

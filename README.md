@@ -1,8 +1,11 @@
 # João Pedro Lobo Costa
 
-**Python Developer | Data Science | Machine Learning**
+**`Python Developer` | `Data Science` | `Machine Learning`**
 
----
+Bom dia | Boa Tarde | Boa Noite,
+
+Sou João Pedro Lobo, tenho 20 anos. Atualmente estou cursando Engenharia de Computação na USTJ. Sou desenvolvedor apaixonado por resolver problemas através da programação, com foco especial em Python e ciência de dados. Acredito no poder dos dados para transformar ideias em soluções inteligentes e estou constantemente explorando novas tecnologias e técnicas na área de Machine Learning.
+
 
 ## 🛠️ Tech Stack
 
@@ -16,16 +19,13 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
----
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Lobo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Lobo&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Lobo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Lobo&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
 </div>
-
----
 
 ## 🚀 Projects Highlights
 
@@ -48,8 +48,6 @@
 ▶️ Brief description 
 🔧 Tech used:
 📌 [GitHub Link](#)
-
----
 
 ## 🤝 Let's Connect
 

@@ -40,7 +40,7 @@ Acredito que a combinação de dados bem estruturados e modelos inteligentes pod
 **[Project 1 Name]**   
 ▶️ Brief description  
 🔧 Tech used:  
-📌 [GitHub Link](#)  
+📌 [GitHub Link](https://github.com/Joao-Pedro-Lobo/gerenciador_tarefas)
 
 **[Project 2 Name]**  
 ▶️ Brief description  

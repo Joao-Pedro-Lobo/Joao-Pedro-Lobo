@@ -32,7 +32,7 @@ Acredito que a combinação de dados bem estruturados e modelos inteligentes pod
 
 <div align="center">
   <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Lobo&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Lobo&layout=compact&theme=midnight-purple&hide_border=true&langs_count=1" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Lobo&layout=compact&theme=midnight-purple&hide_border=true&langs_count=10" />
 </div>
 
 ## 🚀 Projects Highlights

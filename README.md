@@ -1,92 +1,63 @@
-# 👋 Olá! Eu sou o João Pedro Lobo Costa
+# João Pedro Lobo Costa
 
-🎓 Estudante de Engenharia da Computação – 6º semestre  
-🔍 Apaixonado por Python, Ciência de Dados e Machine Learning  
-🚀 Buscando oportunidades de estágio em Tecnologia  
-📍 Barueri - SP | joaolobo0705@gmail.com
+**Python Developer | Data Science | Machine Learning**
 
 ---
 
-## 💡 Sobre mim
+## 🛠️ Tech Stack
 
-Atualmente curso Engenharia da Computação e também sou técnico em Mecatrônica. Tenho uma grande paixão por **dados, automação e tecnologia**. Minha motivação está em resolver problemas do mundo real com soluções inteligentes baseadas em dados e código limpo.
-
-Fiz formações específicas em **Data Science & Machine Learning** e **Análise e Visualização de Dados**, onde desenvolvi habilidades práticas com Python, Pandas, Matplotlib, Seaborn, SQL, Git e mais.
-
-Sou uma pessoa curiosa, proativa e em constante busca por aprender algo novo, especialmente em projetos que envolvam desafios técnicos e impacto real.
-
----
-
-## 🛠️ Habilidades Técnicas
-
-**Linguagens e Ferramentas:**
-- Python: Fundamentos, OOP, Automação
-- Bibliotecas: Pandas, NumPy, Matplotlib, Seaborn, Plotly
-- Machine Learning: Regressão Linear, Logística, Pré-processamento, Métricas de Avaliação
-- SQL: Consultas, agregações e joins
-- Git & GitHub: versionamento e colaboração
-- Jupyter Notebook | Excel Intermediário
-
----
-
-## 📂 Projetos em Destaque
-
-> Em construção! Em breve adicionarei projetos práticos sobre:
-- 🧠 **Machine Learning** – Modelos de regressão aplicados a problemas reais
-- 📊 **Análise de Dados com Python** – Explorando e visualizando dados públicos
-- 🐍 **Automação com Python** – Scripts úteis para o dia a dia
-- 📈 **Dashboard Interativo** – Visualizações com Plotly e dados reais
-
----
-
-## 🎓 Formação Acadêmica
-
-- **Engenharia da Computação** – Universidade São Judas Tadeu  
-  *2023 – 2027 (em andamento)*  
-- **Técnico em Mecatrônica** – SENAI Mariano Ferraz  
-  *2023 – 2025 (em andamento)*
-
----
-
-## 💼 Experiências Relevantes
-
-- **Estágio Técnico em Eletrônica** – Mills (2024 – 2025)  
-  Reparo e testes de placas eletrônicas, medições e manutenção.
-
-- **Estágio Técnico em Informática** – Secretaria da Educação Jandira (2024)  
-  Suporte técnico, manutenção de TI, configuração de redes e sistemas.
-
-- **Projeto Ozires Aerodesign – SAE Brasil (Líder de Elétrica)**  
-  Desenvolvimento e integração de sistemas embarcados para aeronave.
-
----
-
-## 📚 Cursos Realizados
-
-- **Data Science & Machine Learning** – Asimov Academy (70h) ✅  
-- **Análise e Visualização de Dados** – Asimov Academy (em andamento)  
-- **Excel Avançado com Dashboards** – Udemy (em andamento)
-
----
-
-## 🌐 Contato
-
-📧 joaolobo0705@gmail.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/joaolobo0705)  
-📍 Barueri – SP  
-
----
-
-⭐ Obrigado por visitar meu perfil! Fique à vontade para explorar meus repositórios e entrar em contato.
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Lobo&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Lobo&layout=compact&langs_count=7&theme=github_dark"/>
-
+### Main Skills
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </div>
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100" />
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Lobo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Lobo&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+</div>
+
+---
+
+## 🚀 Projects Highlights
+
+**[Project 1 Name]**   
+▶️ Brief description  
+🔧 Tech used:
+📌 [GitHub Link](#)
+
+**[Project 2 Name]**  
+▶️ Brief description 
+🔧 Tech used:
+📌 [GitHub Link](#)
+
+**[Project 3 Name]**  
+▶️ Brief description  
+🔧 Tech used:
+📌 [GitHub Link](#)
+
+**[Project 4 Name]**  
+▶️ Brief description 
+🔧 Tech used:
+📌 [GitHub Link](#)
+
+---
+
+## 🤝 Let's Connect
+
+<div>
+  <a href="https://www.linkedin.com/in/joaolobo0705" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:joaolobo0705@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>

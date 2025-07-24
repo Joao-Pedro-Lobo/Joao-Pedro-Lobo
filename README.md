@@ -1,11 +1,19 @@
 # João Pedro Lobo Costa
 
-**`Python Developer` | `Data Science` | `Machine Learning`**
+**`Estudante de Eng. da Computação` | `Python Developer` | `Machine Learning` | `Data Science`**
 
-Bom dia | Boa Tarde | Boa Noite,
+Bom dia | Boa Tarde | Boa Noite
 
-Sou João Pedro Lobo, tenho 20 anos. Atualmente estou cursando Engenharia de Computação na USTJ. Sou desenvolvedor apaixonado por resolver problemas através da programação, com foco especial em Python e ciência de dados. Acredito no poder dos dados para transformar ideias em soluções inteligentes e estou constantemente explorando novas tecnologias e técnicas na área de Machine Learning.
+Tenho 20 anos, sou de São Paulo e atualmente curso Engenharia da Computação na Universidade São Judas Tadeu. Como desenvolvedor, encontrei na programação uma ferramenta poderosa para resolver problemas complexos - especialmente através da Ciência de Dados e Machine Learning.  
 
+Minha paixão por Inteligência Artificial vai além do interesse técnico: vejo nessa tecnologia o potencial para criar soluções transformadoras. Dedico-me diariamente a:  
+
+- 🐍 Dominar Python para aplicações em ciência de dados
+- 📚 Aprender os fundamentos de Machine Learning
+- 🔍 Explorar como dados podem resolver problemas reais
+- 🛠️ Desenvolver projetos pessoais para aplicar conceitos teóricos  
+
+Acredito que a combinação de dados bem estruturados e modelos inteligentes pode revolucionar a forma como interagimos com a tecnologia.  
 
 ## 🛠️ Tech Stack
 
@@ -23,31 +31,31 @@ Sou João Pedro Lobo, tenho 20 anos. Atualmente estou cursando Engenharia de Com
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Lobo&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Lobo&layout=compact&theme=github_dark&hide_border=true&langs_count=6" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=Joao-Pedro-Lobo&show_icons=true&theme=midnight-purple&hide_border=true&count_private=true" />
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joao-Pedro-Lobo&layout=compact&theme=midnight-purple&hide_border=true&langs_count=6" />
 </div>
 
 ## 🚀 Projects Highlights
 
 **[Project 1 Name]**   
 ▶️ Brief description  
-🔧 Tech used:
-📌 [GitHub Link](#)
+🔧 Tech used:  
+📌 [GitHub Link](#)  
 
 **[Project 2 Name]**  
-▶️ Brief description 
-🔧 Tech used:
-📌 [GitHub Link](#)
+▶️ Brief description  
+🔧 Tech used:  
+📌 [GitHub Link](#)  
 
 **[Project 3 Name]**  
 ▶️ Brief description  
-🔧 Tech used:
-📌 [GitHub Link](#)
+🔧 Tech used:  
+📌 [GitHub Link](#)  
 
 **[Project 4 Name]**  
-▶️ Brief description 
-🔧 Tech used:
-📌 [GitHub Link](#)
+▶️ Brief description  
+🔧 Tech used:  
+📌 [GitHub Link](#)  
 
 ## 🤝 Let's Connect
 
